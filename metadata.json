@@ -1,0 +1,6 @@
+{
+  "name": "AI STUDIO",
+  "description": "Professional GPU-accelerated Android video editor with multi-track timeline, OpenGL ES shader effects library, .aifx plugin architecture, and hardware-accelerated export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
